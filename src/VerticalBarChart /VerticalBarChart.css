@@ -1,0 +1,16 @@
+.bar-chart {
+  padding: 4px;
+  margin-top: 20px;
+  display: flex;
+  height: 200px;
+  width: 100%;
+  background-color: #f1f1f1;
+  align-items: flex-end;
+  border: 1px solid black;
+  }
+  
+  .bar {
+    flex: 1;
+    background-color: #2196f3;
+    margin: 2px;
+  }
